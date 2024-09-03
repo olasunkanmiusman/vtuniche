@@ -113,7 +113,6 @@
     "pin": pin,
     "description": description,
     "type": "electricity bill",
-    "price": parseFloat(amount),
     "disco_name": discoName,
     "amount": amount,
     "meter_number": meterNumber,
