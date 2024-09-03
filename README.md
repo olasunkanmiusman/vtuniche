@@ -1,6 +1,4 @@
-Here’s a refined overview of the **VtuNiche API** endpoints based on the updated details you've shared. This can help you structure the API calls effectively:
-
-### **Common Configuration**
+### **Vtuniche API Documentation**
 
 - **Base URL:** `https://api.vtuniche.com.ng/`
 - **Headers:**
