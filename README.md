@@ -113,10 +113,10 @@
     "pin": pin,
     "description": description,
     "type": "electricity bill",
-    "disco_name": discoName,
+    "disco_name": discoId,
     "amount": amount,
     "meter_number": meterNumber,
-    "MeterType": meterType
+    "MeterType": meterType, // Prepaid or Postpaid
   }
   ```
 - **Functionality:** Pay electricity bills.
